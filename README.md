@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! I'm *Eshika Ranjan Singh, a third-year B.Tech st
 
 ## 📄 Resume
 
-📌 [Download Resume (PDF)](./Eshika-Ranjan-Singh.pdf)
+📌 [Download Resume (PDF)](./Eshika_Ranjan_Singh.pdf)
 
 ---
 
