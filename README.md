@@ -63,7 +63,7 @@ Welcome to my GitHub portfolio! I'm *Eshika Ranjan Singh, a third-year B.Tech st
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/eshika-ranjan-singh)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/eshika-ranjan-singh-b83342276/)
 - 💻 [GitHub](https://github.com/Eshika-Ranjan-Singh)
 - 📧 e20051001rs@gmail.com
 
